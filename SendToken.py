@@ -11,11 +11,6 @@ def Choice():
     else:
         Choice()
 
-
-def Constants():
-    token = input("what is the address of the token you want to send?  ")
-    amount = input("how many tokens you want to send to each recipient?  ")
-
 def One():
     token = input("what is the address of the token you want to send?  ")
     amount = input("how many tokens you want to send to each recipient?  ")
