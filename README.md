@@ -14,3 +14,5 @@ If I can get my cloud VMs working, it will be tested on an Ubuntu VM running in 
 Please let me know about any improvements that can be made
 
 Cheers!
+
+(If you want to send a beer or something:  SOL 9ZWYoRJq6i9qduZDkmRtx5aZjfY1ZfBuo2ZXXy3XefU6)
