@@ -15,4 +15,4 @@ Please let me know about any improvements that can be made
 
 Cheers!
 
-(If you want to send a beer or something:  SOL 9ZWYoRJq6i9qduZDkmRtx5aZjfY1ZfBuo2ZXXy3XefU6)
+(If you found this useful and want to send a beer or something: SOL 9ZWYoRJq6i9qduZDkmRtx5aZjfY1ZfBuo2ZXXy3XefU6)
