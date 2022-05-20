@@ -2,7 +2,7 @@ import os
 import csv
 
 def Choice():
-    print("How many tokens do you want to send? \nFor 1 token press: 1 \nFor many tokens press: 2")
+    print("How many addresses do you want to send tokens to? \nFor 1 address press: 1 \nFor many addresses press: 2")
     branch = input("Please enter 1 or 2:  ")
     if branch == "1":
         One()
@@ -13,7 +13,7 @@ def Choice():
 
 def One():
     token = input("what is the address of the token you want to send?  ")
-    amount = input("how many tokens you want to send to each recipient?  ")
+    amount = input("how many tokens you want to send to the recipient?  ")
     recipient = input("What is the address you want to send " + amount + " tokens to?  ")
     Send(token, amount, recipient)
     
@@ -24,7 +24,7 @@ def Send(token, amount, recipient):
 def Many():
     token = input("what is the address of the token you want to send?  ")
     amount = input("how many tokens you want to send to each recipient?  ")
-    spot = input("Please enter the exact filepath to the CSV file containing the address you wish to send to \n")
+    spot = input("Please enter the exact filepath to the CSV file containing the addresses you wish to send to \n")
     with open(spot, "r+") as file_r:
         file_reader = csv.reader(file_r)
         for row in file_reader:
