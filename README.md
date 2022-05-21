@@ -20,3 +20,5 @@ Cheers!
 
 (If you found this useful and want to send a beer or something: SOL 9ZWYoRJq6i9qduZDkmRtx5aZjfY1ZfBuo2ZXXy3XefU6)
 
+Check out the wiki for future features! 
+I'm always open to more suggestions, and happy to add contributors to the project.
